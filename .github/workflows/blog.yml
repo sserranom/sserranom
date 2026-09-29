@@ -1,0 +1,24 @@
+# Actualiza la sección "04 · Blog" del perfil con las últimas entradas de itserrano.com
+name: Últimas entradas del blog
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # cada día a primera hora
+  workflow_dispatch:        # y cuando lo lances a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://itserrano.com/blog/feed.xml"
+          max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "`$date`&nbsp;&nbsp;[$title]($url)<br/>$newline"
+          commit_message: "Actualizar últimas entradas del blog"
+          committer_username: "sserranom"
