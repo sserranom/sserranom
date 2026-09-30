@@ -30,11 +30,11 @@ En mi [blog](https://itserrano.com/blog/) escribo sobre problemas reales de infr
 
 <img src="assets/sec-blog.svg" width="100%" alt="04 · Blog" />
 
-<!-- BLOG-POST-LIST:START --><code>2026-09-28</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/procesos-en-estado-d-en-linux-por-que-kill-9-no-funciona/">Procesos en estado D en Linux: por qué kill -9 no funciona</a><br/>
+<!-- BLOG-POST-LIST:START --><code>2026-09-30</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/como-alojar-varios-sitios-wordpress-en-un-solo-servidor-con-nginx/">Cómo alojar varios sitios WordPress en un solo servidor con nginx</a><br/>
+<code>2026-09-28</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/procesos-en-estado-d-en-linux-por-que-kill-9-no-funciona/">Procesos en estado D en Linux: por qué kill -9 no funciona</a><br/>
 <code>2026-09-25</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/tunel-ipsec-lento-en-fortigate-como-activar-la-aceleracion-npu/">Túnel IPsec lento en FortiGate: cómo activar la aceleración NPU</a><br/>
 <code>2026-09-20</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/auditar-cuentas-inactivas-active-directory/">Cómo auditar cuentas inactivas en Active Directory con PowerShell</a><br/>
 <code>2026-09-06</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/regla-3-2-1-1-0-backups-veeam/">La regla 3-2-1-1-0: cómo reviso mis backups con Veeam</a><br/>
-<code>2026-08-28</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/gobernanza-de-ti-que-es-y-como-aplicarla-sin-burocracia/">Gobernanza de TI: qué es y cómo aplicarla sin burocracia</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <br />
