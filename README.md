@@ -30,11 +30,11 @@ En mi [blog](https://itserrano.com/blog/) escribo sobre problemas reales de infr
 
 <img src="assets/sec-blog.svg" width="100%" alt="04 · Blog" />
 
-<!-- BLOG-POST-LIST:START --><code>2026-10-01</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/gobernanza-de-ti-explicada-para-tecnicos-10-ejemplos-del-dia-a-dia/">Gobernanza de TI explicada para técnicos: 10 ejemplos del día a día</a><br/>
+<!-- BLOG-POST-LIST:START --><code>2026-10-07</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/archivos-cifrados-por-ransomware-guia-de-respuesta-y-recuperacion/">Archivos cifrados por ransomware: guía de respuesta y recuperación</a><br/>
+<code>2026-10-01</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/gobernanza-de-ti-explicada-para-tecnicos-10-ejemplos-del-dia-a-dia/">Gobernanza de TI explicada para técnicos: 10 ejemplos del día a día</a><br/>
 <code>2026-09-30</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/como-alojar-varios-sitios-wordpress-en-un-solo-servidor-con-nginx/">Cómo alojar varios sitios WordPress en un solo servidor con nginx</a><br/>
 <code>2026-09-30</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/vpn-fortigate-como-saber-por-que-falla-la-autenticacion/">VPN FortiGate: cómo saber por qué falla la autenticación</a><br/>
 <code>2026-09-28</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/procesos-en-estado-d-en-linux-por-que-kill-9-no-funciona/">Procesos en estado D en Linux: por qué kill -9 no funciona</a><br/>
-<code>2026-09-25</code>&nbsp;&nbsp;<a href="https://itserrano.com/blog/tunel-ipsec-lento-en-fortigate-como-activar-la-aceleracion-npu/">Túnel IPsec lento en FortiGate: cómo activar la aceleración NPU</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <br />
